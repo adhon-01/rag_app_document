@@ -1,0 +1,17 @@
+# Secrets - JANGAN pernah hapus baris ini
+.env
+ 
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+ 
+# Data lokal hasil upload/ingest user (isinya privat, jangan ikut ke-push)
+data_dokumen/
+ 
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+ 
