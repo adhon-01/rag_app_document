@@ -28,6 +28,7 @@ Standard RAG implementations often suffer from accuracy drops, missing keyword c
 * **Sparse Encoder:** `pinecone-text` (BM25)
 * **Re-ranker:** Cohere (`rerank-multilingual-v3.0`)
 * **Prompt Management:** PyYAML
+* **Evaluating :** RAGAS
 
 ---
 
