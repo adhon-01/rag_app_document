@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Apa masalah utama yang melatarbelakangi penelitian ini?",
+    "ground_truth": "Sistem presensi manual menggunakan kertas di lokasi kerja selain kantor pada PT Gresik Migas menimbulkan tantangan dalam efektivitas dan efisiensi rekap kehadiran pegawai."
+  },
+  {
+    "question": "Teknologi apa saja yang digunakan untuk membangun sistem presensi ini?",
+    "ground_truth": "PHP native untuk backend, jQuery untuk frontend, MySQL sebagai database, dan Leaflet JS untuk implementasi geolokasi."
+  },
+  {
+    "question": "Di berapa lokasi sistem ini berhasil diimplementasikan, dan berapa radius validasi geolokasi yang digunakan?",
+    "ground_truth": "Sistem berhasil diimplementasikan di 5 lokasi berbeda dengan radius validasi 50 meter."
+  },
+  {
+    "question": "Berapa jumlah pegawai yang menggunakan sistem presensi ini?",
+    "ground_truth": "Sistem ini digunakan oleh 40 pegawai."
+  },
+  {
+    "question": "Metode pengembangan sistem apa yang digunakan dalam penelitian ini, dan apa saja tahapannya?",
+    "ground_truth": "Metode waterfall dengan 4 tahapan: Analisis Kebutuhan Sistem, Desain, Implementasi, dan Pengujian."
+  },
+  {
+    "question": "Metode pengujian apa yang digunakan untuk menguji sistem ini?",
+    "ground_truth": "Metode pengujian blackbox, yang digunakan untuk menguji apakah sistem berjalan sebagaimana mestinya."
+  },
+  {
+    "question": "Apa dua sistem presensi yang sebelumnya berjalan di PT Gresik Migas sebelum sistem baru ini dibangun?",
+    "ground_truth": "Presensi menggunakan mesin fingerprint di kantor, dan presensi manual menggunakan kertas di lokasi kerja lain seperti SPBU, Pertashop, dan Gas Metering Station."
+  },
+  {
+    "question": "Apa kekurangan sistem ini yang disebutkan di bagian kesimpulan dan saran, serta apa usulan pengembangannya ke depan?",
+    "ground_truth": "Fitur swafoto belum memiliki validasi sehingga pegawai mungkin memfoto selain wajahnya sendiri; ke depan diusulkan ditambahkan face recognition sebagai validasi foto pegawai saat melakukan presensi."
+  },
+  {
+    "question": "Berapa besar anggaran yang digunakan untuk pengembangan sistem ini?",
+    "ground_truth": "Dokumen ini tidak menyebutkan informasi mengenai anggaran pengembangan sistem."
+  }
+]
